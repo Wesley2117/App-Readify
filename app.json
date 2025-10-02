@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LoginMobile",
-    "slug": "LoginMobile",
+    "name": "Readify",
+    "slug": "Readify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.wesleyws.LoginMobile"
+      "package": "com.wesleyws.Readify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
