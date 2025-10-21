@@ -16,7 +16,7 @@ export default function WelcomeScreen(){
             </View>
 
             <View style={styles.viewText}>
-                <Text style={styles.textWell} > Read me bitch end expend your little mind</Text>
+                <Text style={styles.textWell} > me leia e seja feliz</Text>
             </View>
 
             <View style={styles.viewButto}>
